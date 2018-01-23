@@ -4,7 +4,7 @@ function GaussianMixtureMotionTrak(inputVideo)
 % This function is used to apply gaussian motion tracking on a input
 % video file.
 % Input: inputVideo - the file name of the video file
-% Ouput: none
+% Ouput: video file with box on moving object
 % Author: Shikun Wang
 % Date: 012218
 %%
